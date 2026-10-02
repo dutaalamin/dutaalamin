@@ -1,7 +1,9 @@
 <p align="center">
-  <a href="https://github.com/dutaalamin">
-    <img src="img/banner.gif" alt="Duta" width="100%" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/duta-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="img/duta-dark.png">
+    <img src="img/duta-dark.png" alt="Duta" width="320" />
+  </picture>
 </p>
 
 <p align="center">
@@ -13,6 +15,8 @@
 
 <!-- Social icons -->
 <p align="center">
+  <a href="https://instagram.com/2duta"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/dutaalamin"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:dutaalamin23@gmail.com"><img width="32px" alt="Email" title="Email" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
@@ -24,10 +28,10 @@
 
 <!-- Badges -->
 <p align="center">
+  <a href="https://instagram.com/2duta">
+    <img alt="Instagram" title="Follow on Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/dutaalamin">
-    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-dutaalamin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/dutaalamin?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dutaalamin?color=58A6FF&style=for-the-badge&labelColor=1F2937&logo=star"/></a>
+    <img alt="LinkedIn" title="Follow on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/dutaalamin?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dutaalamin?color=58A6FF&labelColor=1F2937&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/dutaalamin">

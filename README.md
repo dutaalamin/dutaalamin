@@ -55,25 +55,6 @@
 </details>
 
 <details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-  <p>
-    <img src="assets/skills-lang.svg" alt="Languages" />
-  </p>
-
-  <h3>🧰 Frameworks and Libraries</h3>
-  <p>
-    <img src="assets/skills-framework.svg" alt="Frameworks" />
-  </p>
-
-  <h3>🗄️ Databases, Cloud and Tools</h3>
-  <p>
-    <img src="assets/skills-tools.svg" alt="Tools" />
-  </p>
-</details>
-
-<details open> 
   <summary><h2>📈 Contribution Graph</h2></summary>
   <p>
     <picture>

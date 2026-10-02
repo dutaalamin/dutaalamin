@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/duta-light.png">
     <source media="(prefers-color-scheme: light)" srcset="img/duta-dark.png">
-    <img src="img/duta-dark.png" alt="Duta" width="320" />
+    <img src="img/duta-dark.png" alt="Duta" width="180" />
   </picture>
 </p>
 
@@ -28,14 +28,12 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://instagram.com/2duta">
-    <img alt="Instagram" title="Follow on Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/dutaalamin">
-    <img alt="LinkedIn" title="Follow on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/dutaalamin?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dutaalamin?color=4CAF50&labelColor=2E7D32&style=for-the-badge&logo=star&logoColor=white"/></a>
   <a href="https://github.com/dutaalamin?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dutaalamin?color=58A6FF&labelColor=1F2937&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dutaalamin?color=1F6FEB&labelColor=0D419D&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/dutaalamin">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=dutaalamin&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=dutaalamin&style=for-the-badge&color=555555&label=PROFILE+VIEWS"/></a>
 </p>
 
 <br/>

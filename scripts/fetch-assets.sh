@@ -28,7 +28,6 @@ dl() {
 }
 
 # stats
-dl stats.svg "https://github-readme-stats.vercel.app/api/?username=$U&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"
 dl top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=$U&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"
 dl streak.svg "https://github-readme-streak-stats-eight.vercel.app/?user=$U&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
 # summary cards

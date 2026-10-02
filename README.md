@@ -37,8 +37,7 @@
     <img title="streak stats" alt="Duta's streak" src="assets/streak.svg" />
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
-  <img alt="Duta's Github Stats" src="assets/stats.svg" height="192px"/>
+  <h3>💻 Most Used Languages</h3>
   <img alt="Duta's Top Languages" src="assets/top-langs.svg" height="192px"/>
   <br/>
 

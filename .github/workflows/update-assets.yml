@@ -22,6 +22,24 @@ jobs:
       - name: Fetch all profile images locally
         run: bash scripts/fetch-assets.sh
 
+      - name: Validate assets (reject error pages)
+        run: |
+          fail=0
+          for f in assets/*.svg; do
+            sz=$(wc -c < "$f")
+            if [ "$sz" -lt 400 ]; then
+              echo "TERLALU KECIL: $f ($sz bytes)"; fail=1
+            fi
+            if grep -qiE "Something went wrong|Could not fetch" "$f"; then
+              echo "BERISI ERROR: $f"; fail=1
+            fi
+          done
+          if [ "$fail" -eq 1 ]; then
+            echo "Ada asset invalid - batalkan commit"
+            exit 1
+          fi
+          echo "Semua asset valid"
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"

@@ -8,17 +8,22 @@ mkdir -p "$OUT"
 
 dl() {
   local name="$1"; local url="$2"
+  local min="${3:-400}"
   for i in 1 2 3; do
     if curl -sL --max-time 40 -o "$OUT/$name" "$url"; then
-      if head -c 100 "$OUT/$name" | grep -qiE "<svg|^<\?xml|GIF8|PNG"; then
-        echo "OK  $name ($(wc -c < "$OUT/$name") bytes)"
+      local sz=$(wc -c < "$OUT/$name")
+      # valid: is SVG/GIF/PNG, size >= min, and not an error page
+      if head -c 120 "$OUT/$name" | grep -qiE "<svg|^<\?xml|GIF8|PNG" \
+         && [ "$sz" -ge "$min" ] \
+         && ! grep -qiE "Something went wrong|Could not fetch|rate limit|429" "$OUT/$name"; then
+        echo "OK  $name ($sz bytes)"
         return 0
       fi
     fi
-    echo "retry $name ($i)"
-    sleep 3
+    echo "retry $name ($i) - invalid/too small"
+    sleep 4
   done
-  echo "GAGAL $name"
+  echo "GAGAL $name (dibiarkan pakai versi lama)"
   return 1
 }
 

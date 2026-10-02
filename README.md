@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/dutaalamin">
-    <img src="img/welcome.png" alt="Welcome to my GitHub Profile" width="100%" />
+    <img src="img/welcome.gif" alt="Welcome to my GitHub Profile" width="100%" />
   </a>
 </p>
 

@@ -1,14 +1,6 @@
 <p align="center">
-  <!-- DUTA (static, no animation) -->
   <a href="https://github.com/dutaalamin">
-    <img src="img/duta.png" alt="DUTA" width="76" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Typing SVG -->
-  <a href="https://github.com/dutaalamin">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;JavaScript%20%7C%20TypeScript%20%7C%20Laravel;Building%20things%20for%20the%20web;Always%20learning%20new%20things&font=Fira%20Code&weight=600&center=true&width=620&height=50&color=58A6FF&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
+    <img src="img/welcome.png" alt="Welcome to my GitHub Profile" width="100%" />
   </a>
 </p>
 

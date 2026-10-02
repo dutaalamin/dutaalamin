@@ -11,8 +11,6 @@
   <a href="https://linkedin.com/in/dutaalamin"><img width="32px" alt="LinkedIn" title="LinkedIn" src="assets/icon-linkedin.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:dutaalamin23@gmail.com"><img width="32px" alt="Email" title="Email" src="assets/icon-gmail.svg" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/dutaalamin"><img width="32px" alt="GitHub" title="GitHub" src="assets/icon-github.svg" /></a>
 </p>
 
 <br/>

@@ -56,7 +56,7 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dutaalamin&theme=github_dark&utcOffset=7" /></a>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -97,7 +97,7 @@
   </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>📈 Contribution Graph</h2></summary>
   <p>
     <picture>

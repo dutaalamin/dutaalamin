@@ -20,6 +20,22 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman"
 
+      - name: Recolor contribution squares (green -> blue)
+        run: |
+          for f in dist/*.svg; do
+            sed -i \
+              -e 's/#9be9a8/#a5d6ff/g' \
+              -e 's/#40c463/#58a6ff/g' \
+              -e 's/#30a14e/#1f6feb/g' \
+              -e 's/#216e39/#0d419d/g' \
+              -e 's/#0e4429/#0c2d6b/g' \
+              -e 's/#006d32/#1158c7/g' \
+              -e 's/#26a641/#1f6feb/g' \
+              -e 's/#39d353/#58a6ff/g' \
+              "$f"
+          done
+          echo "Recolored:"; ls -la dist/
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

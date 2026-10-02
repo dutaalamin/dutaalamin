@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://github.com/dutaalamin">
-    <img src="img/fire-banner.gif" alt="Duta - Software Engineer" width="100%" />
+    <img src="img/banner.gif" alt="Duta" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/dutaalamin">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;JavaScript%20%7C%20TypeScript%20%7C%20Laravel;Building%20things%20for%20the%20web;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FF8C00&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;JavaScript%20%7C%20TypeScript%20%7C%20Laravel;Building%20things%20for%20the%20web;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,11 +27,11 @@
   <a href="https://linkedin.com/in/dutaalamin">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-dutaalamin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/dutaalamin?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dutaalamin?color=FF4500&style=for-the-badge&labelColor=B22222&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dutaalamin?color=58A6FF&style=for-the-badge&labelColor=1F2937&logo=star"/></a>
   <a href="https://github.com/dutaalamin?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dutaalamin?color=FF8C00&labelColor=B22222&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dutaalamin?color=58A6FF&labelColor=1F2937&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/dutaalamin">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=dutaalamin&style=for-the-badge&color=FF4500&label=PROFILE+VIEWS"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=dutaalamin&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/></a>
 </p>
 
 <br/>
@@ -42,13 +42,13 @@
   <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Duta's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=dutaalamin&theme=react&hide_border=true&background=1A0E08&ring=FF4500&fire=FF8C00&currStreakLabel=FF8C00"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Duta's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=dutaalamin&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
     </a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Duta's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dutaalamin&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1A0E08&title_color=FF8C00&icon_color=FF4500" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Duta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutaalamin&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1A0E08&title_color=FF8C00&icon_color=FF4500" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Duta's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dutaalamin&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Duta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutaalamin&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

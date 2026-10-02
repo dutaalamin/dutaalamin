@@ -37,21 +37,6 @@
 <br/>
 
 <details open> 
-  <summary><h2>📘 My Top Projects</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/dutaalamin/duta3d"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dutaalamin&repo=duta3d&theme=react&bg_color=1A0E08&title_color=FF8C00&icon_color=FF4500&hide_border=true&show_icons=false" alt="duta3d"></a>
-    <a href="https://github.com/dutaalamin/accounting-next"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dutaalamin&repo=accounting-next&theme=react&bg_color=1A0E08&title_color=FF8C00&icon_color=FF4500&hide_border=true&show_icons=false" alt="accounting-next"></a>
-    <a href="https://github.com/dutaalamin/kora"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dutaalamin&repo=kora&theme=react&bg_color=1A0E08&title_color=FF8C00&icon_color=FF4500&hide_border=true&show_icons=false" alt="kora"></a>
-    <a href="https://github.com/dutaalamin/pokedex"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dutaalamin&repo=pokedex&theme=react&bg_color=1A0E08&title_color=FF8C00&icon_color=FF4500&hide_border=true&show_icons=false" alt="pokedex"></a>
-    <a href="https://github.com/dutaalamin/wave"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dutaalamin&repo=wave&theme=react&bg_color=1A0E08&title_color=FF8C00&icon_color=FF4500&hide_border=true&show_icons=false" alt="wave"></a>
-    <a href="https://github.com/dutaalamin/duta"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dutaalamin&repo=duta&theme=react&bg_color=1A0E08&title_color=FF8C00&icon_color=FF4500&hide_border=true&show_icons=false" alt="duta"></a>
-  </p>
-
-  <a href="https://github.com/dutaalamin?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1A0E08?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-<details open> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>

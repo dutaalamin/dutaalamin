@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://github.com/dutaalamin">
-    <img src="img/welcome.gif" alt="Welcome to my GitHub Profile" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="img/welcome-dark.gif">
+      <source media="(prefers-color-scheme: light)" srcset="img/welcome-light.gif">
+      <img src="img/welcome-dark.gif" alt="Welcome to my GitHub Profile" width="100%" />
+    </picture>
   </a>
 </p>
 

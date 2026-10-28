@@ -27,8 +27,8 @@ people start using it.
 
 Outside of web, I build desktop apps and small tools that speed up daily work.
 
-Most of my clients are schools, small businesses, and individuals who need a
-website. I handle the build and the hosting, and stay around after launch.
+People often come to me with just an idea for a website. I build it, put it
+online, and fix it when something breaks.
 
 <p>
   <img src="assets/badge-typescript.svg" height="26" alt="TypeScript" />

@@ -27,9 +27,6 @@ people start using it.
 
 Outside of web, I build desktop apps and small tools that speed up daily work.
 
-People often come to me with just an idea for a website. I build it, put it
-online, and fix it when something breaks.
-
 <p>
   <img src="assets/badge-typescript.svg" height="26" alt="TypeScript" />
   <img src="assets/badge-react.svg" height="26" alt="React" />

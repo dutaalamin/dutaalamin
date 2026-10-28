@@ -27,6 +27,8 @@ people start using it.
 
 Outside of web, I build desktop apps and small tools that speed up daily work.
 
+<b>Stack I use most</b>
+
 <p>
   <img src="assets/badge-typescript.svg" height="26" alt="TypeScript" />
   <img src="assets/badge-react.svg" height="26" alt="React" />

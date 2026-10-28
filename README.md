@@ -24,22 +24,25 @@
 <h2 align="center">Hi, I'm Duta</h2>
 
 <p align="center">
-  Web developer. I build the whole thing &mdash; interface, state, data, and the tests that hold it together.
+  Software engineer. I like building things for the web, things that use AI, and occasionally things that live on your desktop.
 </p>
 
 <br/>
 
-My work tends to sit close to the user. A school site that has to survive
-open-house traffic. An AI chat app where a dropped token must not corrupt the
-conversation. A typing test whose regressions get caught by Playwright before
-anyone clicks. When the browser is the wrong tool, I write the Windows side in
-C++ instead.
+I build products end to end &mdash; the idea, the interface, the part behind it,
+and everything it takes to keep it running after launch. What I enjoy most is
+the moment a rough sketch turns into something real that someone opens every day.
+
+I care about how things feel to use: fast, quiet, obvious. I would rather ship
+one thing that works properly than five that look good in a screenshot. Most
+days that means a lot of small decisions nobody notices &mdash; which is exactly
+why they matter.
 
 <table>
 <tr>
-<td valign="top" width="33%"><b>Shipping now</b><br/><sub>Kora &mdash; AI chat with streaming replies, voice mode, and file parsing.</sub></td>
-<td valign="top" width="33%"><b>Recently delivered</b><br/><sub>TK Al-Madina &mdash; kindergarten site running open house and admissions.</sub></td>
-<td valign="top" width="33%"><b>Deep end</b><br/><sub>Glance &mdash; Win32 notch launcher with hand-written Direct2D and COM.</sub></td>
+<td valign="top" width="33%"><b>Web products</b><br/><sub>Interfaces that feel quick, load fast, and hold up when real people use them.</sub></td>
+<td valign="top" width="33%"><b>AI &amp; automation</b><br/><sub>Tools that do the boring part, and products where the intelligence is genuinely useful.</sub></td>
+<td valign="top" width="33%"><b>Small tools</b><br/><sub>Trim utilities for the desktop &mdash; the kind of software that stays out of the way.</sub></td>
 </tr>
 </table>
 

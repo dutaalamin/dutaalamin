@@ -31,11 +31,13 @@ I usually handle a project alone, from the first design to the day it goes live.
 That means writing the interface, the backend, and fixing whatever breaks after
 people start using it.
 
-I like small desktop tools too. Simple utilities that do one thing and stay out
-of the way.
+I also build desktop apps and small utilities, the kind that make a boring task
+take two seconds instead of twenty.
 
-The part I enjoy most is finishing. Shipping something, watching people use it,
-and fixing what they run into.
+A lot of my work is helping people get online. Someone needs a site for their
+school, their business, their portfolio, and I build it for them and keep it
+running. That part is satisfying in a way side projects are not, because you can
+see who it is for.
 
 <p>
   <img src="assets/badge-typescript.svg" height="26" alt="TypeScript" />

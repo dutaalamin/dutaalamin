@@ -101,9 +101,9 @@ if __name__ == "__main__":
     grand = sum(totals.values())
     rows = [(k, 100 * v / grand) for k, v in sorted(totals.items(), key=lambda x: -x[1])[:7]]
     here = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    open(os.path.join(here, "assets", "languages-dark.svg"), "w", encoding="utf8", newline="\n").write(
+    open(os.path.join(here, "assets", "languages-chart-dark.svg"), "w", encoding="utf8", newline="\n").write(
         render(rows, counted, "#c9d1d9", "#8b949e", "#6e7681", "#21262D"))
-    open(os.path.join(here, "assets", "languages-light.svg"), "w", encoding="utf8", newline="\n").write(
+    open(os.path.join(here, "assets", "languages-chart-light.svg"), "w", encoding="utf8", newline="\n").write(
         render(rows, counted, "#24292f", "#57606a", "#6e7781", "#eaeef2"))
     for name, pct in rows:
         print(f"{name:16} {pct:5.1f}%")

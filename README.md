@@ -53,9 +53,9 @@ Outside of web, I build desktop apps and small tools that speed up daily work.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
-    <img alt="Languages across my projects" title="Languages across all projects, public and private" src="assets/languages-dark.svg" width="495" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-chart-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/languages-chart-light.svg">
+    <img alt="Languages across my projects" title="Languages across all projects, public and private" src="assets/languages-chart-dark.svg" width="495" />
   </picture>
 </p>
 

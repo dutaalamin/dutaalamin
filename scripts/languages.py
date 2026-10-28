@@ -14,7 +14,13 @@ SKIP = ("package-lock.json", "pnpm-lock.yaml", "yarn.lock", "composer.lock",
         ".min.js", ".min.css", "node_modules/", "dist/", "build/", "vendor/",
         "coverage/", "playwright-report/", "test-results/", ".next/", ".nuxt/",
         "third_party/", "public/js/", "public/draco/", "public/css/",
-        "assets/models/", ".phar", ".zip", ".rar", ".mp3", ".mp4", ".fbx", ".glb")
+        "assets/models/", ".phar", ".zip", ".rar", ".mp3", ".mp4", ".fbx", ".glb",
+        "assets/index-")   # Vite/Webpack build bundles carry a content hash
+
+# Whole repos that hold other people's code rather than mine: game builds,
+# coursework archives, template collections.
+SKIP_REPOS = {"game", "Prak-TPM", "award-winning-website", "praktikum2020",
+              "company-profile-templates"}
 
 EXT = {".ts": "TypeScript", ".tsx": "TypeScript", ".js": "JavaScript", ".mjs": "JavaScript",
        ".jsx": "JavaScript", ".cjs": "JavaScript", ".vue": "Vue", ".php": "PHP / Laravel",
@@ -48,7 +54,7 @@ def collect():
 
     totals, counted = {}, 0
     for repo in repos:
-        if repo["fork"] or repo["size"] == 0:
+        if repo["fork"] or repo["size"] == 0 or repo["name"] in SKIP_REPOS:
             continue
         try:
             tree = api(f"https://api.github.com/repos/{USER}/{repo['name']}/git/trees/HEAD?recursive=1")

@@ -31,11 +31,12 @@ I usually work alone, from the first idea to the finished product. That means
 designing the interface, writing the backend, and fixing whatever breaks after
 people start using it. I enjoy that whole process.
 
-I also like small utilities for the desktop, like a launcher that sits quietly
-at the top of the screen and stays out of the way.
+Outside of web work I build small desktop utilities. Nothing big, just tools
+that solve one annoyance and then get out of the way.
 
-What I care about is whether the thing actually works. Fast enough, easy to
-understand, and still working a year later.
+The part I enjoy most is finishing. Shipping something, watching people use it,
+and fixing the things they run into. That feedback loop is what keeps the work
+interesting.
 
 <p>
   <img src="assets/badge-typescript.svg" height="26" alt="TypeScript" />

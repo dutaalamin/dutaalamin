@@ -25,13 +25,10 @@ I usually handle a project alone, from the first design to the day it goes live.
 That means writing the interface, the backend, and fixing whatever breaks after
 people start using it.
 
-I also build desktop apps and small utilities, the kind that make a boring task
-take two seconds instead of twenty.
+Outside of web, I build desktop apps and small tools that speed up daily work.
 
-A lot of my work is helping people get online. Someone needs a site for their
-school, their business, their portfolio, and I build it for them and keep it
-running. That part is satisfying in a way side projects are not, because you can
-see who it is for.
+Most of my clients are schools, small businesses, and individuals who need a
+website. I handle the build and the hosting, and stay around after launch.
 
 <p>
   <img src="assets/badge-typescript.svg" height="26" alt="TypeScript" />

@@ -8,7 +8,6 @@
   </a>
 </p>
 
-<!-- Social icons (self-hosted) -->
 <p align="center">
   <a href="https://instagram.com/2duta"><img width="30px" alt="Instagram" title="Instagram" src="assets/icon-instagram.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;
@@ -19,34 +18,23 @@
   <a href="mailto:dutaalamin23@gmail.com"><img width="30px" alt="Email" title="Email" src="assets/icon-gmail.svg" /></a>
 </p>
 
-<br/>
-
 <h2 align="center">Hi, I'm Duta</h2>
 
 <p align="center">
-  Software engineer. I like building things for the web, things that use AI, and occasionally things that live on your desktop.
+  Software engineer. I build for the web, I build with AI, and sometimes I build small tools for the desktop.
 </p>
 
-<br/>
+I like taking an idea from a rough sketch to something people actually open every
+day. Ideas that stay in the notebook are the ones I enjoy least.
 
-I build products end to end &mdash; the idea, the interface, the part behind it,
-and everything it takes to keep it running after launch. What I enjoy most is
-the moment a rough sketch turns into something real that someone opens every day.
+Most of what I make is web. Interfaces, the parts behind them, and whatever it
+takes to keep them alive after launch. Lately I spend a lot of time with AI,
+mostly because it removes the boring half of the work and makes things buildable
+that used to be too slow to attempt alone.
 
-I care about how things feel to use: fast, quiet, obvious. I would rather ship
-one thing that works properly than five that look good in a screenshot. Most
-days that means a lot of small decisions nobody notices &mdash; which is exactly
-why they matter.
-
-<table>
-<tr>
-<td valign="top" width="33%"><b>Web products</b><br/><sub>Interfaces that feel quick, load fast, and hold up when real people use them.</sub></td>
-<td valign="top" width="33%"><b>AI &amp; automation</b><br/><sub>Tools that do the boring part, and products where the intelligence is genuinely useful.</sub></td>
-<td valign="top" width="33%"><b>Small tools</b><br/><sub>Trim utilities for the desktop &mdash; the kind of software that stays out of the way.</sub></td>
-</tr>
-</table>
-
-<br/>
+I care about how software feels to use. Fast, quiet, obvious. I would rather ship
+one thing that works properly than five that look good in a screenshot. Most of
+that work is small decisions nobody notices, which is exactly why it matters.
 
 <p>
   <img src="assets/badge-typescript.svg" height="26" alt="TypeScript" />
@@ -60,31 +48,23 @@ why they matter.
   <img src="assets/badge-cpp.svg" height="26" alt="C++" />
 </p>
 
-<br/>
+<h2>Statistics</h2>
 
-<details open>
-  <summary><h2>Statistics</h2></summary>
+<p>
+  <img title="highlights" alt="Duta's highlights" src="assets/highlights.svg" width="495" />
+</p>
 
-  <p>
-    <img title="highlights" alt="Duta's highlights" src="assets/highlights.svg?v=2" width="495" />
-  </p>
+<p>
+  <img title="streak stats" alt="Duta's streak" src="assets/streak-card.svg" width="495" />
+</p>
 
-  <p>
-    <img title="streak stats" alt="Duta's streak" src="assets/streak.svg?v=2" />
-  </p>
-
-  <br/>
-
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/pacman-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/pacman-light.svg">
-      <img alt="contribution graph" src="assets/pacman-dark.svg" />
-    </picture>
-  </p>
-</details>
-
-<br/>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/pacman-light.svg">
+    <img alt="contribution graph" src="assets/pacman-dark.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <img alt="profile views" title="GitHub profile views" src="assets/views.svg" />

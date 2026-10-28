@@ -62,6 +62,14 @@ interesting.
 
 <p>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
+    <img alt="Languages across my projects" title="Languages across all projects, public and private" src="assets/languages-dark.svg" width="495" />
+  </picture>
+</p>
+
+<p>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/pacman-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/pacman-light.svg">
     <img alt="contribution graph" src="assets/pacman-dark.svg" />

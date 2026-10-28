@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="26" viewBox="0 0 85 26" role="img" aria-label="Laravel">
+  <rect x="0.5" y="0.5" width="84" height="25" rx="6" fill="#21262D" stroke="#30363D"/>
+  <circle cx="13" cy="13" r="4" fill="#FF2D20"/>
+  <text x="24" y="17" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#E6EDF3">Laravel</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107" height="26" viewBox="0 0 107 26" role="img" aria-label="Playwright">
+  <rect x="0.5" y="0.5" width="106" height="25" rx="6" fill="#21262D" stroke="#30363D"/>
+  <circle cx="13" cy="13" r="4" fill="#45BA4B"/>
+  <text x="24" y="17" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#E6EDF3">Playwright</text>
+</svg>

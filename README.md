@@ -24,19 +24,18 @@
   Software engineer. I build websites, apps, and AI tools.
 </p>
 
-I am Duta, a software engineer from Indonesia. I like building websites and
-apps, and lately I have been building a lot of things with AI.
+I am Duta, a software engineer from Indonesia. I work on web projects, mostly
+with React, Vue, and Laravel, and lately I spend a lot of time building with AI.
 
-I usually work alone, from the first idea to the finished product. That means
-designing the interface, writing the backend, and fixing whatever breaks after
-people start using it. I enjoy that whole process.
+I usually handle a project alone, from the first design to the day it goes live.
+That means writing the interface, the backend, and fixing whatever breaks after
+people start using it.
 
-Outside of web work I build small desktop utilities. Nothing big, just tools
-that solve one annoyance and then get out of the way.
+I like small desktop tools too. Simple utilities that do one thing and stay out
+of the way.
 
 The part I enjoy most is finishing. Shipping something, watching people use it,
-and fixing the things they run into. That feedback loop is what keeps the work
-interesting.
+and fixing what they run into.
 
 <p>
   <img src="assets/badge-typescript.svg" height="26" alt="TypeScript" />

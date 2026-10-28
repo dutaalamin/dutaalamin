@@ -40,3 +40,6 @@ dl pacman-light.svg "https://raw.githubusercontent.com/$U/$U/output/pacman-contr
 
 echo "--- selesai ---"
 ls -la "$OUT"
+
+# Languages chart is generated locally, not fetched: it counts private repos too,
+# which no public stats service can see. Regenerate with scripts/languages.py.

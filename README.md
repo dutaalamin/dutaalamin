@@ -70,7 +70,7 @@ why they matter.
   </p>
 
   <p>
-    <img title="streak stats" alt="Duta's streak" src="assets/streak.svg" />
+    <img title="streak stats" alt="Duta's streak" src="assets/streak.svg?v=2" />
   </p>
 
   <br/>

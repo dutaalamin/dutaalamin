@@ -18,14 +18,8 @@
   <a href="mailto:dutaalamin23@gmail.com"><img width="30px" alt="Email" title="Email" src="assets/icon-gmail.svg" /></a>
 </p>
 
-<h2 align="center">Hi, I'm Duta</h2>
-
-<p align="center">
-  Software engineer. I build websites, apps, and AI tools.
-</p>
-
-I am Duta, a software engineer from Indonesia. I work on web projects, mostly
-with React, Vue, and Laravel, and lately I spend a lot of time building with AI.
+Software engineer from Indonesia. I build websites, apps, and AI tools, mostly
+with React, Vue, and Laravel.
 
 I usually handle a project alone, from the first design to the day it goes live.
 That means writing the interface, the backend, and fixing whatever breaks after

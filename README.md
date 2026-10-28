@@ -21,20 +21,21 @@
 <h2 align="center">Hi, I'm Duta</h2>
 
 <p align="center">
-  Software engineer. I build for the web, I build with AI, and sometimes I build small tools for the desktop.
+  Software engineer. I build websites, apps, and AI tools.
 </p>
 
-I like taking an idea from a rough sketch to something people actually open every
-day. Ideas that stay in the notebook are the ones I enjoy least.
+I am Duta, a software engineer from Indonesia. I like building websites and
+apps, and lately I have been building a lot of things with AI.
 
-Most of what I make is web. Interfaces, the parts behind them, and whatever it
-takes to keep them alive after launch. Lately I spend a lot of time with AI,
-mostly because it removes the boring half of the work and makes things buildable
-that used to be too slow to attempt alone.
+I usually work alone, from the first idea to the finished product. That means
+designing the interface, writing the backend, and fixing whatever breaks after
+people start using it. I enjoy that whole process.
 
-I care about how software feels to use. Fast, quiet, obvious. I would rather ship
-one thing that works properly than five that look good in a screenshot. Most of
-that work is small decisions nobody notices, which is exactly why it matters.
+I also like small utilities for the desktop, like a launcher that sits quietly
+at the top of the screen and stays out of the way.
+
+What I care about is whether the thing actually works. Fast enough, easy to
+understand, and still working a year later.
 
 <p>
   <img src="assets/badge-typescript.svg" height="26" alt="TypeScript" />

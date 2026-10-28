@@ -21,16 +21,27 @@
 
 <br/>
 
-## About Me
+<h2 align="center">Hi, I'm Duta</h2>
 
-I build web products end to end - interface, state, data, and the tests that keep
-them honest - and I write native Windows tooling in C++ when the browser is the
-wrong tool for the job.
+<p align="center">
+  Web developer. I build the whole thing &mdash; interface, state, data, and the tests that hold it together.
+</p>
 
-Most of what I ship is for real users: school sites, studio landing pages, a
-color tool, a typing test with a full Playwright suite behind it. I care about
-the things you only notice when they are missing - keyboard handling, focus
-states, what happens when the network dies, whether the second click still works.
+<br/>
+
+My work tends to sit close to the user. A school site that has to survive
+open-house traffic. An AI chat app where a dropped token must not corrupt the
+conversation. A typing test whose regressions get caught by Playwright before
+anyone clicks. When the browser is the wrong tool, I write the Windows side in
+C++ instead.
+
+<table>
+<tr>
+<td valign="top" width="33%"><b>Shipping now</b><br/><sub>Kora &mdash; AI chat with streaming replies, voice mode, and file parsing.</sub></td>
+<td valign="top" width="33%"><b>Recently delivered</b><br/><sub>TK Al-Madina &mdash; kindergarten site running open house and admissions.</sub></td>
+<td valign="top" width="33%"><b>Deep end</b><br/><sub>Glance &mdash; Win32 notch launcher with hand-written Direct2D and COM.</sub></td>
+</tr>
+</table>
 
 <br/>
 
@@ -49,66 +60,23 @@ states, what happens when the network dies, whether the second click still works
 <br/>
 
 <details open>
-  <summary><h2>Selected Work</h2></summary>
+  <summary><h2>Statistics</h2></summary>
 
-### [Glance](https://github.com/dutaalamin/glance) &middot; notch launcher for Windows
+  <p>
+    <img title="highlights" alt="Duta's highlights" src="assets/highlights.svg" width="495" />
+  </p>
 
-<sub>C++ &middot; Win32 &middot; Direct2D &middot; COM</sub>
+  <p>
+    <img title="streak stats" alt="Duta's streak" src="assets/streak.svg" />
+  </p>
 
-A 268 x 40 pill at the top of the desktop that grows into an app launcher.
-Hand-written Direct2D rendering, shell icon extraction, and media session
-callbacks so the notch shows what is playing with a seekable progress bar.
-No framework, no installer, no telemetry.
+  <br/>
 
-### [Kora](https://kora.duta1.com) &middot; AI chat assistant for Korean
-
-<sub>React &middot; TypeScript &middot; Gemini &middot; Streaming</sub>
-
-Streaming replies, voice mode, file parsing, and a vocabulary game. Built on a
-reducer-driven message store so a dropped token mid-stream cannot corrupt the
-conversation.
-
-### [Job Market Analyzer](https://github.com/dutaalamin/job-market-analyzer) &middot; which skills are actually in demand
-
-<sub>Python &middot; DuckDB &middot; dbt &middot; Airflow</sub>
-
-Collects remote tech postings, normalises them into a DuckDB warehouse, and
-exposes the result as dbt marts - with 27 data-quality tests guarding the
-staging layer. Orchestrated by a daily Airflow DAG that retries per stage.
-
-### [QA Automation](https://github.com/dutaalamin/qa-automation) &middot; Playwright suite against production
-
-<sub>Playwright &middot; Page Object Model &middot; CI</sub>
-
-Drives a live deployment across Chromium, Firefox, WebKit, and an emulated
-iPhone 13. One selector source, positive/negative/edge specs, and an HTML report
-with traces and video on failure.
-
-### [TK Al-Madina](https://tkalmadina.vercel.app) &middot; kindergarten site
-
-<sub>React &middot; Vite &middot; Tailwind</sub>
-
-Open house, admissions, and curriculum pages, shipped and maintained for the
-school. Content is editable without touching components.
-
-### [Al-Quran](https://github.com/dutaalamin/quran) &middot; reading platform
-
-<sub>JavaScript</sub>
-
-Surah index, translations, audio recitation, and adjustable typography for
-comfortable long-form reading.
-
-</details>
-
-<br/>
-
-<details open>
-  <summary><h2>Contribution Graph</h2></summary>
   <p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/pacman-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/pacman-light.svg">
-      <img alt="pacman contribution graph" src="assets/pacman-dark.svg" />
+      <img alt="contribution graph" src="assets/pacman-dark.svg" />
     </picture>
   </p>
 </details>

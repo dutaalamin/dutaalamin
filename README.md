@@ -53,7 +53,7 @@ states, what happens when the network dies, whether the second click still works
 
 ### [Glance](https://github.com/dutaalamin/glance) &middot; notch launcher for Windows
 
-`C++` `Win32` `Direct2D` `COM`
+<sub>C++ &middot; Win32 &middot; Direct2D &middot; COM</sub>
 
 A 268 x 40 pill at the top of the desktop that grows into an app launcher.
 Hand-written Direct2D rendering, shell icon extraction, and media session
@@ -62,7 +62,7 @@ No framework, no installer, no telemetry.
 
 ### [Kora](https://kora.duta1.com) &middot; AI chat assistant for Korean
 
-`React` `TypeScript` `Gemini` `Streaming`
+<sub>React &middot; TypeScript &middot; Gemini &middot; Streaming</sub>
 
 Streaming replies, voice mode, file parsing, and a vocabulary game. Built on a
 reducer-driven message store so a dropped token mid-stream cannot corrupt the
@@ -70,7 +70,7 @@ conversation.
 
 ### [Job Market Analyzer](https://github.com/dutaalamin/job-market-analyzer) &middot; which skills are actually in demand
 
-`Python` `DuckDB` `dbt` `Airflow`
+<sub>Python &middot; DuckDB &middot; dbt &middot; Airflow</sub>
 
 Collects remote tech postings, normalises them into a DuckDB warehouse, and
 exposes the result as dbt marts - with 27 data-quality tests guarding the
@@ -78,7 +78,7 @@ staging layer. Orchestrated by a daily Airflow DAG that retries per stage.
 
 ### [QA Automation](https://github.com/dutaalamin/qa-automation) &middot; Playwright suite against production
 
-`Playwright` `Page Object Model` `CI`
+<sub>Playwright &middot; Page Object Model &middot; CI</sub>
 
 Drives a live deployment across Chromium, Firefox, WebKit, and an emulated
 iPhone 13. One selector source, positive/negative/edge specs, and an HTML report
@@ -86,14 +86,14 @@ with traces and video on failure.
 
 ### [TK Al-Madina](https://tkalmadina.vercel.app) &middot; kindergarten site
 
-`React` `Vite` `Tailwind`
+<sub>React &middot; Vite &middot; Tailwind</sub>
 
 Open house, admissions, and curriculum pages, shipped and maintained for the
 school. Content is editable without touching components.
 
 ### [Al-Quran](https://github.com/dutaalamin/quran) &middot; reading platform
 
-`JavaScript`
+<sub>JavaScript</sub>
 
 Surah index, translations, audio recitation, and adjustable typography for
 comfortable long-form reading.

@@ -51,7 +51,7 @@ that work is small decisions nobody notices, which is exactly why it matters.
 <h2>Statistics</h2>
 
 <p>
-  <img title="highlights" alt="Duta's highlights" src="assets/highlights.svg" width="495" />
+  <img title="highlights" alt="Duta's highlights" src="assets/highlights-strip.svg" width="495" />
 </p>
 
 <p>
